@@ -1,0 +1,25 @@
+{
+  "name": "5minnode",
+  "version": "1.0.0",
+  "description": "Just going through to improve my node skills",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Doncurt/5minNode.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Donovan Adams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Doncurt/5minNode/issues"
+  },
+  "homepage": "https://github.com/Doncurt/5minNode#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
